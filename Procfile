@@ -1,0 +1,1 @@
+web: gunicorn lifeflow_backend.wsgi
